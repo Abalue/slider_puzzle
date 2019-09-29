@@ -10,10 +10,10 @@ Move the 2 by 2 block to the bottom left of the board.
 
 Controls:  
 left click - select block  
-up - move block up  
-down - move block down  
-left - move block left  
-right - move block right
+up key - move block up  
+down key - move block down  
+left key - move block left  
+right key - move block right
 
 Credits:
 Inspired by the sliding block puzzle from PyCon talk - Modern solvers: Problems well-defined are problems solved
