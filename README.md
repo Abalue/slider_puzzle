@@ -2,7 +2,7 @@
 
 ![Screenshot](slider_puzzle.png)
 
-Descriptioin:
+Description:
 A slider puzzle containing blocks of various sizes
 
 Goal: 
