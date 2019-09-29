@@ -1,4 +1,7 @@
 # slider_puzzle
+
+![Screenshot](slider_puzzle.png)
+
 A slider puzzle containing blocks of various sizes
 
 Controls:  
