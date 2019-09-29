@@ -14,6 +14,7 @@ up key - move block up
 down key - move block down  
 left key - move block left  
 right key - move block right
+TAB - cycle through block selection
 
 Credits:
 Inspired by the sliding block puzzle from PyCon talk - Modern solvers: Problems well-defined are problems solved
