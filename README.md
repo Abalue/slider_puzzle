@@ -1,16 +1,11 @@
 # slider_puzzle
 A slider puzzle containing blocks of various sizes
 
-Controls:
-
-left click - select block
-
-up - move block up
-
-down - move block down
-
-left - move block left
-
+Controls:  
+left click - select block  
+up - move block up  
+down - move block down  
+left - move block left  
 right - move block right
 
 Goal: 
